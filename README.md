@@ -1,68 +1,53 @@
-# Yash Prakash Mulani
+<h1 align="center">hey there 👋</h1>
 
-## About Me
-I am a B.Tech student majoring in Computer Science & Engineering at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore. With a passion for software development and problem-solving, I have gained valuable experience through internships and various projects. I am always eager to learn new technologies and contribute to innovative projects.
+###
 
-- **Email:** [yashmulani2611@gmail.com](mailto:yashmulani2611@gmail.com)
-- **LinkedIn:** [Yash Mulani](https://www.linkedin.com/in/yash-mulani26)
-- **Location:** Ujjain, Madhya Pradesh, India
+<h3 align="left">Innovative and driven B.Tech student specializing in Computer Science & Engineering. Adept in software development and problem-solving, with hands-on experience from impactful internships and projects. Passionate about leveraging cutting-edge technologies to create transformative solutions. Always eager to learn, grow, and contribute to meaningful tech innovations.</h3>
 
-## Education
-- **B.Tech. in Computer Science & Engineering**
-  - Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore
-  - Shri Vaishnav Institute of Information Technology
-  - CGPA: 5.76 / 10
-  - 2021 - 2025
+###
 
+<p align="left">I'm Yash Mulani from India<br><br>- 🔭 I’m Pursuing B.Tech in (CSE)<br>- 📚 I have Expertise in Java & Python</p>
 
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-## Internships
-- **Technosoft Informatics Development Centre** (20 Mar, 2024 - 20 Apr, 2024)
-  - Worked on software applications and live projects using J2EE framework, Spring, and Hibernate technologies.
-  - Implemented web services following an agile approach.
-  - Enhanced technical skills, problem-solving abilities, and gained experience in teamwork and project management.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-## Projects
-- **True Democracy**
-  - Key Skills: HTML, CSS, JSP, Servlet, MySQL
-  - Developed a web-based platform to enhance civic engagement and democratic participation.
+###
 
-- **Student Career Guidance**
-  - Key Skills: HTML, CSS
-  - Created an online career guidance system to help students make informed decisions about their undergraduate degrees.
+<h3 align="left">🔥   My Stats :</h3>
 
-- **Remote Machine Accessing Model And Chatting Application**
-  - Key Skills: JDBC, RMI Socket, MySQL
-  - Developed network and security-based applications for secure messaging and remote machine access.
+###
 
-- **Online Blood And Organ Donation**
-  - Key Skills: HTML, CSS, Struts, Tiles, Hibernate, MySQL
-  - Created a platform to organize, track, and manage donor information and donations.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YashMulani-2603&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-- **Tatva Chintan**
-  - Key Skills: Python, Django, HTML, CSS, SQLite
-  - Built a collaborative platform for students, faculty, and developers to discuss technology and share insights.
-
-- **IT-EXAM & Preparation Software**
-  - Key Skills: Hibernate, Swing, MySQL
-  - Developed a comprehensive platform for students to prepare for and take exams in programming languages such as C and Java.
-
-## Skills
-- **Programming Languages:** Python, Java, C
-- **Web Technologies:** HTML, CSS, JSP, Servlet, Struts, Tiles
-- **Frameworks:** Spring, Hibernate, Django
-- **Databases:** MySQL, SQLite
-- **Tools:** JDBC, RMI Socket, Swing
-
-## Contact
-- **Phone:** +91-8770244126
-- **Email:** [yashmulani2611@gmail.com](mailto:yashmulani2611@gmail.com)
-- **LinkedIn:** [Yash Mulani](https://www.linkedin.com/in/yash-mulani26)
-
-## References
-- **Rahul Jain**
-  - Technosoft Informatics Development Centre
-  - Phone: +91-9753057542
-  - Email: [info@technosoftinformatics.com](mailto:info@technosoftinformatics.com)
+###
