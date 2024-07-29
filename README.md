@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Innovative and driven B.Tech student specializing in Computer Science & Engineering. Adept in software development and problem-solving, with hands-on experience from impactful internships and projects. Passionate about leveraging cutting-edge technologies to create transformative solutions. Always eager to learn, grow, and contribute to meaningful tech innovations.</h3>
+
 
 ###
 
